@@ -8,11 +8,13 @@ android {
     namespace = "jp.ac.jec.cm0199.cloudinaryquickstart"
     compileSdk = 35
 
+    // TODO WORKAROUND: START
     configurations.all {
         resolutionStrategy {
             force("androidx.emoji2:emoji2:1.2.0") // Replace with the desired version
         }
     }
+    // TODO WORKAROUND: END
 
     defaultConfig {
         applicationId = "jp.ac.jec.cm0199.cloudinaryquickstart"
