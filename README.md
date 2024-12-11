@@ -1,4 +1,4 @@
-# development env
+# Development Environment
 
 Android Studio Ladybug
 
@@ -6,14 +6,13 @@ Android Studio Ladybug
 
 [capture.webm](https://github.com/user-attachments/assets/34b27d8f-c97a-4a66-bbf7-876ef152d6c0)
 
-# Cloudinaryアプリを動かすための準備
+# Preparation for Running the Cloudinary App
 
-## CLOUD_NAMEとUPLOAD_PRESETはCloudinaryのダッシュボードから取得する
+## Obtain CLOUD_NAME and UPLOAD_PRESET from the Cloudinary Dashboard
 <img src="./console.png">
 
-## `local.properties`にCLOUD_NAMEとUPLOAD_PRESETを追加する
+## Add CLOUD_NAME and UPLOAD_PRESET to `local.properties`
 <img src="./android_studio.png">
 
-# refs
+# References
 https://cloudinary.com/documentation/android_integration<br>
-
