@@ -20,6 +20,6 @@ public class MyApp extends Application {
         // 参考: https://cloudinary.com/documentation/android_integration#setup
         MediaManager.init(this, config);
 
-        MediaManager.get().getCloudinary().url().transformation(new Transformation().width(300).crop("scale"));
+        MediaManager.get().getCloudinary().url().transformation().width(300).crop("scale");
     }
 }
