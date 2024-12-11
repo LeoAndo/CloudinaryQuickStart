@@ -2,8 +2,9 @@
 
 Android Studio Ladybug
 
-# webm Android Pixel 9 Pro Fold API Baklava
-<img src="./capture.webm" width="100%">
+# Android Pixel 9 Pro Fold API Baklava
+[capture.webm](https://github.com/user-attachments/assets/34b27d8f-c97a-4a66-bbf7-876ef152d6c0)
+
 
 # refs
 
